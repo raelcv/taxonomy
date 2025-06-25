@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Datapec\Taxonomy\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class TaxonomyCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'taxonomy';
 
     public $description = 'My command';
 
